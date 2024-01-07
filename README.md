@@ -4,6 +4,6 @@
 2.内置so hook框架<br>
 3.svc检测<br>
 4.特征处理<br>
-- 4.1修改su（√）<br>
+-4.1修改su（√）<br>
 5.内置FART<br>
 6.Android profiler打印日志<br>
